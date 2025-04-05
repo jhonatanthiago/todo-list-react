@@ -1,6 +1,3 @@
-Claro! Aqui está o README completo em formato Markdown com todas as informações que você pediu:
-
-```markdown
 # Todo List React
 
 ## Descrição
@@ -35,48 +32,3 @@ Embora eu tenha feito este projeto em 2024, acabei esquecendo de anexá-lo ao me
 
    ```bash
    git clone https://github.com/jhonatanthiago/todo-list-react.git
-   ```
-
-2. Navegue até a pasta do projeto:
-
-   ```bash
-   cd todo-list-react
-   ```
-
-3. Instale as dependências:
-
-   ```bash
-   npm install
-   ```
-
-4. Inicie o servidor de desenvolvimento:
-
-   ```bash
-   npm start
-   ```
-
-   Isso abrirá o projeto no navegador com o endereço `http://localhost:3000`.
-
-## Como Contribuir
-
-Se você quiser contribuir para o projeto, siga os passos abaixo:
-
-1. Faça um **fork** do repositório.
-2. Crie uma nova branch (`git checkout -b feature-xyz`).
-3. Faça suas modificações.
-4. Faça o commit das suas mudanças (`git commit -am 'Add new feature'`).
-5. Envie para o repositório remoto (`git push origin feature-xyz`).
-6. Abra um **pull request** para a branch `main`.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Feito com 💙 por **Jhonatan Thiago**.
-```
-
-Você pode copiar esse conteúdo para o seu arquivo `README.md`. Caso tenha uma captura de tela do projeto, substitua `https://link-da-imagem-da-demo.png` pelo link direto da imagem.
-
-Se precisar de algo mais, é só me avisar!
