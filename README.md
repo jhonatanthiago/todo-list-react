@@ -16,7 +16,7 @@ Embora eu tenha feito este projeto em 2024, acabei esquecendo de anexá-lo ao me
 
 ## Demonstração
 
-![Demo](https://link-da-imagem-da-demo.png) <!-- Coloque um link de uma captura de tela aqui -->
+![Demo](C:\Users\thiago\OneDrive\Imagens\IMAGENS PROJETOS) 
 
 ## Tecnologias Utilizadas
 
@@ -28,7 +28,16 @@ Embora eu tenha feito este projeto em 2024, acabei esquecendo de anexá-lo ao me
 
 ## Como Rodar o Projeto Localmente
 
-1. Clone o repositório:
+Para rodar o projeto localmente em sua máquina, siga os passos abaixo:
 
-   ```bash
-   git clone https://github.com/jhonatanthiago/todo-list-react.git
+# Clone o repositório para o seu computador
+git clone https://github.com/jhonatanthiago/todo-list-react.git
+
+# Acesse o diretório do projeto
+cd todo-list-react
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm start
