@@ -1,40 +1,82 @@
-# Getting Started with Create React App
+Claro! Aqui está o README completo em formato Markdown com todas as informações que você pediu:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```markdown
+# Todo List React
 
-## Available Scripts
+## Descrição
 
-In the project directory, you can run:
+Este é um projeto de **Lista de Tarefas (Todo List)** criado com **React** em **2024**. O objetivo é fornecer uma interface interativa e visualmente agradável para adicionar, marcar e remover tarefas. O aplicativo tem um design simples e intuitivo, com um fundo escuro, botões interativos e ícones modernos, tornando a experiência do usuário mais fluída e agradável.
 
-### `npm start`
+Embora eu tenha feito este projeto em 2024, acabei esquecendo de anexá-lo ao meu portfólio no GitHub. Agora estou atualizando meu repositório e anexando todos os meus projetos, incluindo este.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Funcionalidades:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Adicionar tarefas
+- Marcar tarefas como concluídas
+- Remover tarefas
+- Interface interativa e responsiva
+- Suporte para modo escuro
 
-### `npm test`
+## Demonstração
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Demo](https://link-da-imagem-da-demo.png) <!-- Coloque um link de uma captura de tela aqui -->
 
-### `npm run build`
+## Tecnologias Utilizadas
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React**: Biblioteca JavaScript para construir interfaces de usuário.
+- **React Icons**: Conjunto de ícones para tornar a interface mais interativa.
+- **CSS3**: Estilização do layout.
+- **React Context** (opcional se usar para gerenciamento de estado global)
+- **React Hooks** (useState, useEffect)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Como Rodar o Projeto Localmente
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone o repositório:
 
-### `npm run eject`
+   ```bash
+   git clone https://github.com/jhonatanthiago/todo-list-react.git
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2. Navegue até a pasta do projeto:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   cd todo-list-react
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. Instale as dependências:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   npm install
+   ```
+
+4. Inicie o servidor de desenvolvimento:
+
+   ```bash
+   npm start
+   ```
+
+   Isso abrirá o projeto no navegador com o endereço `http://localhost:3000`.
+
+## Como Contribuir
+
+Se você quiser contribuir para o projeto, siga os passos abaixo:
+
+1. Faça um **fork** do repositório.
+2. Crie uma nova branch (`git checkout -b feature-xyz`).
+3. Faça suas modificações.
+4. Faça o commit das suas mudanças (`git commit -am 'Add new feature'`).
+5. Envie para o repositório remoto (`git push origin feature-xyz`).
+6. Abra um **pull request** para a branch `main`.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Feito com 💙 por **Jhonatan Thiago**.
+```
+
+Você pode copiar esse conteúdo para o seu arquivo `README.md`. Caso tenha uma captura de tela do projeto, substitua `https://link-da-imagem-da-demo.png` pelo link direto da imagem.
+
+Se precisar de algo mais, é só me avisar!
