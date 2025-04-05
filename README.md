@@ -16,7 +16,7 @@ Embora eu tenha feito este projeto em 2024, acabei esquecendo de anexá-lo ao me
 
 ## Demonstração
 
-![Descrição da imagem](IMG/to-do-list-img.jpg)
+![Descrição da imagem](todo-list/to-do-list-img.jpg)
 
 ## Tecnologias Utilizadas
 
